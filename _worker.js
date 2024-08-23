@@ -5,12 +5,13 @@
 
 import { connect } from 'cloudflare:sockets';
 
-// How to generate your own UUID:
 // https://www.uuidgenerator.net/
-let userID = '89b3cbba-e6ac-485a-9481-976a0415eab9';
+let userID = '5641bb1a-7bb7-4b7f-a47c-91ab256662e6';
 
-// https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
+// https://ipdb.030101.xyz/bestproxy/
+// https://www.nslookup.io/domains/bestproxy.030101.xyz/dns-records/
 const proxyIPs= ['bpb.yousef.isegaro.com'];
+// 'cdnfd.920324.xyz', 'bestproxy.030101.xyz', '104.19.46.161', '172.67.162.217'
 
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
