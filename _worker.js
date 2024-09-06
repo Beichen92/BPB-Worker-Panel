@@ -10,7 +10,7 @@ let userID = '5641bb1a-7bb7-4b7f-a47c-91ab256662e6';
 
 // https://ipdb.030101.xyz/bestproxy/
 // https://www.nslookup.io/domains/bestproxy.030101.xyz/dns-records/
-const proxyIPs= ['bpbfd.wbc.pp.ua'];
+const proxyIPs= ['fd-bpb.wbc.pp.ua'];
 // '8.219.209.14', 'bpb.yousef.isegaro.com', 'bestproxy.030101.xyz'
 
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
